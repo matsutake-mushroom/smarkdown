@@ -1,0 +1,12 @@
+#main-editor{
+    width: 80vw;
+    height: 50vh;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    background: #FEFEFE;
+}
+.header-block{
+    border: 1px solid gray;
+    background: #EFEFEF;
+}
